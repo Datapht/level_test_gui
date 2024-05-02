@@ -3,3 +3,5 @@
 # - This file could list all the external dependencies required to run the project, including libraries, frameworks, and packages.
 # - It might specify exact version numbers for reproducibility or use version ranges for flexibility.
 # - It could also include additional dependencies for development, testing, or deployment purposes.
+
+customtkinter
